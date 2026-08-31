@@ -1,122 +1,85 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Jo%C3%A3o+Carvalho;Web+Developer;Front-End+%26+PHP" alt="Typing SVG" />
+# João Carvalho
+
+### `Web Developer · Front-End · PHP`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8B8B8B&center=true&vCenter=true&width=550&lines=Construindo+para+a+web.;Aprendendo+%C2%B7+Construindo+%C2%B7+Melhorando." alt="Descrição animada" />
 
 <br>
 
-`Web Developer · Front-End · PHP`
-
-<br>
-
-<a href="SEU_PORTFOLIO">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="SEU_LINKEDIN">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="SEU_EMAIL">Email</a>
+[Portfólio](#) · [LinkedIn](#) · [E-mail](#)
 
 </div>
 
-<br>
+---
+
+## Sobre mim
+
+Sou **João Carvalho**, desenvolvedor web com foco em **Front-End** e desenvolvimento de aplicações.
+
+Trabalho principalmente com **JavaScript, PHP e Laravel**, buscando criar interfaces simples, funcionais e boas experiências para quem utiliza meus projetos.
+
+Também tenho interesse em **UI/UX, desenvolvimento mobile e arquitetura Front-End**.
+
+Gosto de aprender colocando a mão no código e transformar cada projeto em uma oportunidade para evoluir.
 
 ---
 
-## About
-
-I'm João Carvalho, a web developer focused on building
-clean interfaces, useful applications and thoughtful digital experiences.
-
-My main stack revolves around **JavaScript, PHP and Laravel**,
-with a particular interest in Front-End development and UI/UX.
-
-I like simple solutions, well-structured code and interfaces
-that don't make users think more than they need to.
-
----
-
-## Stack
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,php,laravel,mysql,angular,ionic,git,github,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,mysql,tailwind,bootstrap,angular,ionic,git,github,figma,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## Selected work
+## Projetos
 
-<table>
-<tr>
-<td width="50%">
+### `app-consultar-cep`
 
-### Sistema de Clientes
+Aplicação para consulta de endereços através de CEP.
 
-Sistema web para gerenciamento
-de clientes e informações.
+**Tecnologias:** TypeScript
 
-`PHP` `MySQL`
-
-**[View project →](#)**
-
-</td>
-
-<td width="50%">
-
-### FEB
-
-Projeto desenvolvido para o
-ambiente institucional da FEB/UNIFEB.
-
-`PHP` `Web`
-
-**[View project →](#)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### DovahExpress
-
-Aplicação web voltada para
-entregas e logística.
-
-`JavaScript` `Web`
-
-**[View project →](#)**
-
-</td>
-
-<td width="50%">
-
-### UNIFEB App
-
-Aplicação mobile desenvolvida
-com Ionic e Angular.
-
-`TypeScript` `Angular` `Ionic`
-
-**[View project →](#)**
-
-</td>
-</tr>
-</table>
+[Ver repositório →](https://github.com/joaocarvalho-devbr/app-consultar-cep)
 
 ---
 
-## Currently
+### `Gerenciador-de-tarefas`
+
+Aplicação para gerenciamento de tarefas, desenvolvida como projeto de estudo e prática de desenvolvimento de software.
+
+**Tecnologias:** C#
+
+[Ver repositório →](https://github.com/joaocarvalho-devbr/Gerenciador-de-tarefas)
+
+---
+
+### `sistema-clientes`
+
+Sistema web para gerenciamento de clientes, desenvolvido com foco em cadastro, organização e manipulação de informações.
+
+**Tecnologias:** PHP
+
+[Ver repositório →](https://github.com/joaocarvalho-devbr/sistema-clientes)
+
+---
+
+## Atualmente
 
 ```text
-BUILDING
-└── Web applications
+FOCO
+└── Desenvolvimento Web
 
-LEARNING
-├── React
+ESTUDANDO
 ├── JavaScript
-└── Front-end architecture
+├── React
+└── Arquitetura Front-End
 
-EXPLORING
+EXPLORANDO
 ├── UI/UX
 ├── Design Systems
-└── Mobile development
+└── Desenvolvimento Mobile
